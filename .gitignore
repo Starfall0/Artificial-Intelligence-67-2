@@ -1,0 +1,8 @@
+*.txt
+*.zip
+*.xlsx
+*.pdf
+*.png
+*_test.py
+in_class.py
+*.csv
